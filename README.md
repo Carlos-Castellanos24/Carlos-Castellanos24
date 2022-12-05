@@ -13,6 +13,8 @@ Actualmente me dedico al estudio. Sin embargo, me especializo individualmente en
 - ✔ JSF 🐱‍👓
 - ✔ JSP 🐱‍🚀
 - ✔ JDBC 🐱‍🏍
+- ✔ Hibernate 🦄
+- ✔ JPA 🐲
 - ✔ EJB 🐱‍💻
 - ✔ SpringBoot 🐱‍🐉
 - ✔ GitHub 👾
