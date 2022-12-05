@@ -1,7 +1,7 @@
-### Hi there 👋
+![](https://media.tenor.com/H_loBGkJiMYAAAAd/code-daddycoolcool.gif)
+### Bienvenidos a mi perfil 👋
 
-<!--
-**Carlos-Castellanos24/Carlos-Castellanos24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Mi nombre es Carlos, y soy estudiante de cuarto año de Ingenieria en sistemas y computacion, en la universidad Tecnologica de El Salvador.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
