@@ -4,8 +4,7 @@
 
 # Bienvenidos a mi perfil 😁
 
-Mi nombre es Carlos, y soy estudiante de cuarto año de Ingeniería en sistemas y computación, en la universidad Tecnologica de El Salvador. 😃
-Actualmente me dedico al estudio. Sin embargo, me especializo individualmente en Desarrollo Web con Java. 🤠
+Mi nombre es Carlos, y soy estudiante de quinto año de Ingeniería en sistemas y computación, en la universidad Tecnologica de El Salvador. 😃
 
 ## Mis conocimientos:
 
